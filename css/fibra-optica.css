@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fibra-optica-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.titulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    
+}
+h1{
+    border: 5px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+
+}
+.texto{
+ 
+    margin: 10px;
+}

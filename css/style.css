@@ -36,13 +36,8 @@ body{
 
 
 
+/* TODO: Hacer que las imagenes se muestren sin pixelizar */
 
-
-img{
-    max-height:250px;
-    padding: 1px;
-    
-}
 
 
   .imghead{
@@ -122,9 +117,6 @@ img{
 
   }
 
-  .servicios-title
-  {
-  }
 
   .servicios_container
   {
